@@ -1,5 +1,5 @@
 {
-  "name": "minsomai/moodle-mcp-server",
+  "name": "@minsomai/moodle-mcp-server",
   "version": "1.1.0",
   "description": "Moddle MCP server",
   "private": false,
