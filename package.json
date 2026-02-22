@@ -2,7 +2,7 @@
   "name": "moodle-mcp-server",
   "version": "1.1.0",
   "description": "Moddle MCP server",
-  "private": true,
+  "private": false,
   "type": "module",
   "bin": {
     "moodle-mcp-server": "./build/index.js"
